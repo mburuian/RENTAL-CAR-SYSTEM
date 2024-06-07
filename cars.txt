@@ -1,0 +1,5 @@
+REMA9874,Toyota hilux,true
+ELENA 97480,toyota supra,false
+GAMER9789,Fielder,true
+HELLO94788,mazda,false
+VIMN9708,harrier,false
